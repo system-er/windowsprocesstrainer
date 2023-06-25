@@ -1,7 +1,7 @@
 # windowsprocesstrainer
 
 a simple minimalist trainer for values of addresses of a process.    
-you can use it for example for cheat in games (tested with Total War: Warhammer 3)    
+you can use it for example for cheat in games      
 release: windows 10, 64bit, release
 
 screenshot:    
