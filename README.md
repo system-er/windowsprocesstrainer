@@ -10,6 +10,7 @@ screenshot:
 # changelog:
 v0.1: start    
 v0.2: filtering now works much faster    
+v0.3: bytesizes with checkboxes    
 
 # contact:
 sys_temerror at web dot de    
