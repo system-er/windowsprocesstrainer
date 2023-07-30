@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="processtrainer">
+    <file>systemerror.JPG</file>
+  </qresource>
+</RCC>
