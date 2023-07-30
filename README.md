@@ -1,7 +1,8 @@
 # windowsprocesstrainer
 
 a simple minimalist trainer for values of addresses of a process.    
-you can use it for example for cheat in games      
+you can use it for example for cheat in games.
+used Visual Studio 2022 with Qt 5.15.2 and Qt-Designer        
 release: windows 10, 64bit, release
 
 screenshot:    
